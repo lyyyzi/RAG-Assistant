@@ -32,7 +32,7 @@ Example response:
 
 Example grounded response from the system:
 
-![Demo](docs/demo.png)
+![Demo](docs/Demo.png)
 
 The system retrieves relevant document chunks and generates answers grounded in source content.
 
